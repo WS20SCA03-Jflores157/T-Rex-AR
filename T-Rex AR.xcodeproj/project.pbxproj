@@ -13,6 +13,7 @@
 		007A8D7B249E2D13007FDFC0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 007A8D79249E2D13007FDFC0 /* Main.storyboard */; };
 		007A8D7D249E2D13007FDFC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 007A8D7C249E2D13007FDFC0 /* Assets.xcassets */; };
 		007A8D80249E2D13007FDFC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 007A8D7E249E2D13007FDFC0 /* LaunchScreen.storyboard */; };
+		007A8D88249E2D1F007FDFC0 /* trex.dae in Resources */ = {isa = PBXBuildFile; fileRef = 007A8D87249E2D1F007FDFC0 /* trex.dae */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		007A8D7C249E2D13007FDFC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		007A8D7F249E2D13007FDFC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		007A8D81249E2D13007FDFC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		007A8D87249E2D1F007FDFC0 /* trex.dae */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml.dae; path = trex.dae; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				007A8D73249E2D13007FDFC0 /* AppDelegate.swift */,
 				007A8D75249E2D13007FDFC0 /* art.scnassets */,
 				007A8D77249E2D13007FDFC0 /* ViewController.swift */,
+				007A8D87249E2D1F007FDFC0 /* trex.dae */,
 				007A8D79249E2D13007FDFC0 /* Main.storyboard */,
 				007A8D7C249E2D13007FDFC0 /* Assets.xcassets */,
 				007A8D7E249E2D13007FDFC0 /* LaunchScreen.storyboard */,
@@ -129,6 +132,7 @@
 				007A8D80249E2D13007FDFC0 /* LaunchScreen.storyboard in Resources */,
 				007A8D7D249E2D13007FDFC0 /* Assets.xcassets in Resources */,
 				007A8D7B249E2D13007FDFC0 /* Main.storyboard in Resources */,
+				007A8D88249E2D1F007FDFC0 /* trex.dae in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
